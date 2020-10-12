@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #EBCA48;
+}
+
+form {
+    margin: 0.5rem;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+    font-size: 5rem;
+}
+
+button{
+    font-family: Verdana;
+    background-color: white;
+    color: #464646;
+    font-size: 2rem;
+    padding: 0.5rem;
+    border: none;
+    outline: none; 
+    margin: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    font-family: Verdana;
+    background-color: white;
+    color: #464646;
+    font-size: 2rem;
+    border: none;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    outline: none; 
+    text-align: center;
+}
+
+label {
+    font-family: Verdana;
+    background-color: white;
+    color: #464646;
+    font-size: 2rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.task {
+    display: flex;
+    justify-content: center;
+}
+
+
+
